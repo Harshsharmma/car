@@ -5,7 +5,7 @@ const CarList = ({ onClick }) => {
     {
       id: 1,
       name: "Hyundai Creta",
-      image: "./creata.jpg",
+      image: "./creata.JPG",
       price: 20000,
       mileage: 10000,
       engine: "1.5L Petrol",
@@ -13,7 +13,7 @@ const CarList = ({ onClick }) => {
     {
       id: 2,
       name: "Maruti Swift",
-      image: "./swift.jpg",
+      image: "./swift.JPG",
       price: 10000,
       mileage: 1000,
       engine: "2.5L Petrol",
@@ -21,7 +21,7 @@ const CarList = ({ onClick }) => {
     {
       id: 3,
       name: "Maruti Alto",
-      image: "./alto.jpg",
+      image: "./alto.JPG",
       price: 2000,
       mileage: 1000,
       engine: "1.5L Petrol",
